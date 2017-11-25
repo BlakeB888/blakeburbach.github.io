@@ -9,6 +9,19 @@ border-radius: 15px;
 border-color: #C4CECO;
 }
 
+h1{
+  font-size: 64px;
+}
+
+h2{
+  font-size: 18px;
+}
+
+h3{
+  font-size: 32px;
+}
+
+
 
 .content-academics{
 border: 1px solid #000;
