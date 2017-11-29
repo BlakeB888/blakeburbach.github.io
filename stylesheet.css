@@ -9,7 +9,7 @@ margin-bottom: 20px;
   border-radius: 15px;
   background-color: #D3D3D3;
   
-  text-align: left;
+  
 }
 
 img.image{
@@ -19,27 +19,32 @@ img.image{
   border: 5px solid #000000;
   border-radius: 8px;
   box-shadow: 10px 10px 5px grey;
+  float: left;
 }
 
 
 
 h1{
   font-size: 64px;
+  text-align: right;
   
 }
 
 h2{
   font-size: 18px;
+  text-align: right;
   
 }
 
 h3{
   font-size: 32px;
+  text-align: left;
   
 }
 
 h4{
   font-size: 24px;
+  text-align: left;
   
 }
 
