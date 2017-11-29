@@ -8,8 +8,10 @@ margin-bottom: 20px;
   
   border-radius: 15px;
   background-color: #D3D3D3;
-  
-  
+}
+
+#content-contact{
+ display: inline; 
 }
 
 img.image{
