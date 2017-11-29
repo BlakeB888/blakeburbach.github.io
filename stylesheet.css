@@ -29,6 +29,7 @@ img.image{
 h1{
   font-size: 64px;
   text-align: right;
+  border-bottom: 1px solid black;
   
 }
 
