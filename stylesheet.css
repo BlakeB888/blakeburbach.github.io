@@ -1,6 +1,7 @@
 body{
-font: Avenir Next;
+font: 16px Avenir-Next, Sans-Serif;
 }
+
 #container{
 margin-top: 20px;
 margin-left: 200px;
