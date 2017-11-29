@@ -1,6 +1,6 @@
 #container{
 margin-top: 20px;
-margin-left: 20px;
+margin-left: 200px;
 margin-right: 200px;
 
 }
@@ -12,6 +12,7 @@ h1{
 
 h2{
   font-size: 18px;
+  text-align: center;
 }
 
 h3{
@@ -21,14 +22,13 @@ h3{
 
 h4{
   font-size: 24px;
+  text-align: center;
 }
 
 #body{
  padding-left: 50px;
    padding-right: 50px;
-  border-left:150px;
-  border-right: 150px;
-  border-top: 50px;
-  border-bottom: 50px;
+  
+  border-radius: 20px;
     
 }
