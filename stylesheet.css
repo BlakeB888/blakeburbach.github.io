@@ -17,6 +17,10 @@ img.resize{
  height: 50%;
 }
 
+img{
+ img-align: right; 
+}
+
 h1{
   font-size: 64px;
   
