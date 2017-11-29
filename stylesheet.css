@@ -10,7 +10,11 @@ margin-bottom: 20px;
   background-color: #D3D3D3;
   
   text-align: left;
+}
 
+img.resize{
+ width: 40px;
+ height: 60px;
 }
 
 h1{
