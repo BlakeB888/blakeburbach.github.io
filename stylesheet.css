@@ -24,4 +24,9 @@ h4{
 #body{
  padding-left: 50px;
    padding-right: 50px;
+  border-left:150px;
+  border-right: 150px;
+  border-top: 50px;
+  border-bottom: 50px;
+    
 }
